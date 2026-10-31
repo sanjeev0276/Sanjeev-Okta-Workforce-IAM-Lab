@@ -1,4 +1,4 @@
-# Okta Workforce IAM Lab
+# Sanjeev-Okta-Workforce-IAM-Lab
 
 Hands-on Okta Workforce Identity and Access Management lab covering SAML SSO, RBAC, MFA, JML, group rules, access reviews, and exception access.
 
@@ -89,4 +89,4 @@ This lab demonstrates practical IAM skills across authentication, authorization,
 
 ## Disclaimer
 
-This is a personal lab project using mock users, mock applications, and sanitized documentation. No real company data, production credentials, API tokens, private keys, or sensitive information are included.
+Forked from SuhaibAN, customized by Sanjeev Shrestha - Oct 2026
