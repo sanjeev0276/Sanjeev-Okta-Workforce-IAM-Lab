@@ -86,7 +86,5 @@ Simulated access reviews, privileged access review, contractor access control, a
 ## Project Outcome
 
 This lab demonstrates practical IAM skills across authentication, authorization, lifecycle management, access governance, and SSO federation.
-
-## Disclaimer
-
-Forked from SuhaibAN, customized by Sanjeev Shrestha - Oct 2026
+## Original Repository & Credits
+This hands-on lab series was adapted and built upon the foundational framework provided by [SuhaibAN/okta-workforce-iam-lab] (https://github.com/SuhaibAN/okta-workforce-iam-lab). Full original references can be found in [REFERENCE.md](REFERENCE.md).
