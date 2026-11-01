@@ -1,10 +1,20 @@
 # Sanjeev-Okta-Workforce-IAM-Lab
 
-Hands-on Okta Workforce Identity and Access Management lab covering SAML SSO, RBAC, MFA, JML, group rules, access reviews, and exception access.
+![Okta](https://img.shields.io/badge/Okta-IAM-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Integration-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML%202.0-SSO-FF6B00?style=for-the-badge)
+![MFA](https://img.shields.io/badge/Adaptive%20MFA-Zero%20Trust-00A86B?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+**Author:** Sanjeev Shrestha | Dallas–Fort Worth Area, TX (Shrestha Financial)  
+**Target Roles:** IAM Engineer / Identity Engineer / Okta Administrator / Entra ID Engineer (2027)  
+**Certification Focus:** Preparing for Okta Certified Professional (OCP)  
+**Environment:** Okta Developer Tenant (*.okta.com - redacted) 
 
 ## Project Overview
 
-This project simulates a workforce IAM environment for a mock Canadian financial services company.
+This project simulates a workforce IAM environment for a mock Dallas based financial services company.
 
 The goal is to demonstrate practical IAM administration and governance skills using Okta, including:
 
