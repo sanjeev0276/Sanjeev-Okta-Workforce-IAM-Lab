@@ -43,7 +43,7 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 
 ## Key Skills Demonstrated
 
-* RBAC Mode
+* RBAC Model
 * SAML SSO Integration
 * MFA Policy
 * JML Lifecycle
@@ -63,19 +63,19 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 <br>
 
 #### Architecture Diagram
-![Architecture Diagram](Lab%201%20-%20Okta%20Tenant%20Setup%20and%20Configuration/Screenshots/Architecture_Diagram.png)
+![Architecture_Diagram](Lab%201%20-%20RBAC%20Model/Screenshots/Architecture_Diagram.png)
 
 #### Administration and Configuration Captures
 * **People:**  
-  ![Organization Contact](Lab%201%20-%20Okta%20Tenant%20Setup%20and%20Configuration/Screenshots/Image1.png)
+  ![Organization Contact](Lab%201%20-%20RBAC%20Model/Screenshots/People.png)
 * **Groups:**  
-  ![People](Lab%201%20-%20Okta%20Tenant%20Setup%20and%20Configuration/Screenshots/People.png)
+  ![People](Lab%201%20-%20RBAC%20Model/Screenshots/Groups.png)
 * **Applications:**  
-  ![Custom Profile Attributes](Lab%201%20-%20Okta%20Tenant%20Setup%20and%20Configuration/Screenshots/Custom_Profile_Attributes.png)
+  ![Custom Profile Attributes](Lab%201%20-%20RBAC%20Model/Screenshots/Applications.png)
 * **Application People Example:**  
-  ![Groups](Lab%201%20-%20Okta%20Tenant%20Setup%20and%20Configuration/Screenshots/Groups.png)
+  ![Groups](Lab%201%20-%20RBAC%20Model/Screenshots/Application_People.png)
 * **Application Group Example:**  
-  ![Group Rules](Lab%201%20-%20Okta%20Tenant%20Setup%20and%20Configuration/Screenshots/Group_Rules.png)
+  ![Group Rules](Lab%201%20-%20RBAC%20Model/Screenshots/Application_Group.png)
 
 </details>
 
