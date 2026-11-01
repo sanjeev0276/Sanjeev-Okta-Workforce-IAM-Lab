@@ -24,7 +24,7 @@ The goal is to demonstrate practical IAM administration and governance skills us
 
 ## Lab Scenario
 
-A mock company, MapleTech Financial, was created with users across HR, Finance, IT, and Contractor teams.
+A mock company, Shrestha Financial, was created with users across HR, Finance, IT, and Contractor teams.
 
 Access was assigned using Okta groups instead of direct user assignment.
 
