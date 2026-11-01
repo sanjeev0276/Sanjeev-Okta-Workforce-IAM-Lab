@@ -82,7 +82,7 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 ---
 **[↑ Back to Lab Execution Status](#lab-execution-status)**
 
-<a id="lab-2-active-SAML-SSO-Integration"></a>
+<a id="lab-2-SAML-SSO-Integration"></a>
 ### Lab 2: SAML SSO Integration
 **Key Learnings and Takeaways:**
 * Configured Active Directory as the authoritative source of truth for user lifecycle operations (`allenlab.local`).
