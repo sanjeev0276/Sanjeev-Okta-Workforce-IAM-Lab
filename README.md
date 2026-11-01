@@ -21,11 +21,11 @@ RBAC Model → SML SSO Integration → MFO Policy → Access Governance
 | Lab       | Focus Area                                | Status    | Jump to Lab                                                                  |
 |-----------|-------------------------------------------|-----------|------------------------------------------------------------------------------|
 | **Lab 1** | RBAC Model | Completed | [Go to Lab 1](#lab-1-RBAC-Model)                       |
-| **Lab 2** | Active Directory Integration and DelAuth    | Completed | [Go to Lab 2](#lab-2-active-directory-integration--delegated-authentication) |
-| **Lab 3** | RBAC Design and Access Sprawl Investigation | Completed | [Go to Lab 3](#lab-3-rbac-design--access-sprawl-investigation)               |
-| **Lab 4** | SAML 2.0 Application Integration          | Completed | [Go to Lab 4](#lab-4-saml-20-application-integration)                        |
-| **Lab 5** | Adaptive MFA, Step-Up and Zero Trust        | Completed | [Go to Lab 5](#lab-5-adaptive-mfa-step-up-authentication--zero-trust)        |
-| **Lab 6** | JML Lifecycle Automation                  | Completed | [Go to Lab 6](#lab-6-okta-jml-lifecycle-automation)                          |
+| **Lab 2** | SML SSO Integration    | Completed | [Go to Lab 2](#lab-2-SML-SSO-Integration) |
+| **Lab 3** | MFA Policy | Completed | [Go to Lab 3](#lab-3-MFA-Policy)               |
+| **Lab 4** | JML Lifecycle          | Completed | [Go to Lab 4](#lab-4-JML-Lifecycle)                        |
+| **Lab 5** | Access Governance        | Completed | [Go to Lab 5](#lab-5-Access-Governance)        |
+
 
 ---
 ## Executive Summary and Business Impact
