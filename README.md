@@ -12,6 +12,10 @@
 **Certification Focus:** Preparing for Okta Certified Professional (OCP)  
 **Environment:** Okta Developer Tenant (*.okta.com - redacted) 
 
+## 5 Labs Architecture Overview
+RBAC Model → SML SSO Integration → MFO Policy → Access Governance
+ ![Architecture_Overview](Overall_Architecture.png)
+
 ## Project Overview
 
 This project simulates a workforce IAM environment for a mock Dallas based financial services company.
