@@ -54,9 +54,11 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 <a id="lab-1-RBAC-Model"></a>
 ### Lab 1: RBAC Model
 **Key Learnings and Takeaways:**
-* Established core tenant infrastructure including branding, directory schema, custom profile attributes, and group structures prior to app assignments.
-* Isolated Global Session Policies from application-level Authentication Policies and Authenticator Enrollment Policies to maintain granular access control.
-
+Set up role-based access in Okta where users get app access through their department group, not individually. Example: HR-Team group -> HR Portal.
+1) More secure by default — Users only get what their role needs (least privilege), and we can review access by group, not person by person.
+2) Much faster and easier operations — Joiner / Mover / Leaver is just adding or removing someone from a group. No need to touch every app. This process is easier and faster.
+3) Cleaner and Scalable — Handles JML cleanly without leaving behind extra access. Helps the environment scale faster.
+   
 <details>
 <summary>📸 <b>Click to view Lab 1 Diagrams and Screenshots</b></summary>
 
