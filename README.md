@@ -145,8 +145,9 @@ Set up role-based access in Okta where users get app access through their depart
 ### Lab 4: JML Lifecycle
 
 **Key Learnings and Takeaways:**
-* Configured custom SAML 2.0 integrations with multiple Service Providers (Slack, Google Workspace, SharePoint).
-* Applied least-privilege entitlements through group memberships rather than direct assignments. Verified user access segregation across distinct user profiles in Incognito test sessions.
+* Group Rules automate JML: Department = Finance → Rule If Finance Then Finance-Team auto-assigns group and app. No manual work. HR system is source of truth.
+* Mover removes old access: Changed Department Finance→HR → Finance-Team auto-removed, HR-Team auto-added. Old app revoked, new app granted. Prevents extra access.
+* Leaver removes apps, keeps groups for audit: Deactivate = No apps assigned. HR-Team stays in Groups tab for audit history. Real flow: Deactivate now, Delete after 30 days.
 
 <details>
 <summary>📸 <b>Click to view Lab 4 Diagrams and Screenshots</b></summary>
