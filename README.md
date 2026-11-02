@@ -87,8 +87,9 @@ Set up role-based access in Okta where users get app access through their depart
 <a id="lab-2-SML-SSO-Integration"></a>
 ### Lab 2: SAML SSO Integration
 **Key Learnings and Takeaways:**
-* Configured Active Directory as the authoritative source of truth for user lifecycle operations (`allenlab.local`).
-* Evaluated standard import workflows: **Incremental Import** for daily delta synchronization vs. **Full Import** for initial reconciliation and bulk schema updates.
+* SAML is IdP trusting SP: Okta (IdP) sends a login proof to the test app (SP). Alex Chen gets access because he's in IT-Admins group - Alex Chen → IT-Admins → App. That's how all work apps work.
+* 4 fields must be exact: ACS URL (where to send login), Entity ID (app's ID), Name ID = Email, Username = Email. One typo and SSO fails.
+* Assign via groups: Assigned app to IT-Admins group, not directly to Alex. Easily manageable and scalable.
 
 <details>
 <summary>📸 <b>Click to view Lab 2 Diagrams and Screenshots</b></summary>
