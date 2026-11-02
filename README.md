@@ -97,17 +97,16 @@ Set up role-based access in Okta where users get app access through their depart
 <br>
 
 #### Architecture Diagram
-![Architecture Diagram](Lab%202%20-%20Okta%20Active%20Directory%20Integration/Screenshots/Architecture_Diagram.png)
+![Architecture Diagram](Lab%202%20-%20SAML%20SSO%20Integration/Screenshots/Architecture_Diagram.png)
 
-#### Active Directory Integration Proof
-* **AD to Okta Provisioning Pipeline:**  
-  ![From AD To Okta](Lab%202%20-%20Okta%20Active%20Directory%20Integration/Screenshots/FromAD_To_Okta.png)
-* **Delegated Authentication Enabled:**  
-  ![Enabled Delegated Authentication](Lab%202%20-%20Okta%20Active%20Directory%20Integration/Screenshots/Enabled_Delegated_Authentication.png)
-* **AD Profile Mapping:**  
-  ![User Profile Mapping AD](Lab%202%20-%20Okta%20Active%20Directory%20Integration/Screenshots/User_Profile_Mapping_AD.png)
-* **Okta User Profile Mapping:**  
-  ![User Profile Mapping Okta](Lab%202%20-%20Okta%20Active%20Directory%20Integration/Screenshots/User_Profile_Mapping_Okta.png)
+#### SSO Integration 
+
+* **SAML App IT Admin Groups:**  
+  ![SAML_App_IT_Admins_Group](Lab%202%20-%20SAML%20SSO%20Integration/Screenshots/SAML_App_IT_Admins_Group.png)
+* **IT Admins Alex Chen:**  
+  ![IT_Admins_Alex_Chen](Lab%202%20-%20SAML%20SSO%20Integration/Screenshots/IT_Admins_Alex_Chen.png)
+* **SAML SSO Integration:**  
+  ![SAML_SSO_Integration](Lab%202%20-%20SAML%20SSO%20Integration/Screenshots/SAML_SSO_Integration.png)
 
 </details>
 
