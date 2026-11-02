@@ -112,7 +112,6 @@ Set up role-based access in Okta where users get app access through their depart
 
 ---
 **[↑ Back to Lab Execution Status](#lab-execution-status)**
-
 <a id="lab-3-MFA-Policy"></a>
 ### Lab 3: MFA Policy
 
