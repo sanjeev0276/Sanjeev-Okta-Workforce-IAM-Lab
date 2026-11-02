@@ -126,20 +126,15 @@ Set up role-based access in Okta where users get app access through their depart
 <br>
 
 #### Architecture Diagram
-![Architecture Diagram](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Architecture_Diagram.png)
+![Architecture Diagram](Lab%203%20-%20MFA%20Policy/Screenshots/Architecture_Diagram.png)
 
-#### RBAC & Deprovisioning Proof
-* **Group Sync Verification:**  
-  ![Okta Group Sync](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Okta_Group_Sync.png)
-* **Full Reconciliation Import:**  
-  ![Full Import](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Full_Import.png)
-* **Lifecycle Deactivation (AD side):**  
-  ![Sarah Disabled AD](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Sarah_Disabled_AD.png)
-* **Lifecycle Deactivation (Okta side):**  
-  ![Sarah Deactivated Okta](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Sarah_Deactivated_Okta.png)
-* **Access Sprawl Investigation and Audit Report:**  
-  ![Access Sprawl Investigation](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Access_Sprawl_Investigation.png)  
-  ![Access Sprawl Report](Lab%203%20-%20Okta%20RBAC%20Design%20and%20Implementation/Screenshots/Access_Sprawl_Report.png)
+#### MFA Policy
+* **IT Admins Rule Details (High Risk Admin Access Policy):**  
+  ![IT_Admins_Rule_Details](Lab%203%20-%20MFA%20Policy/Screenshots/IT_Admins_Rule_Details.png)
+* **App Assigned to Policy:**  
+  ![App_Assigned_to_Policy](Lab%203%20-%20MFA%20Policy/Screenshots/App_Assigned_to_Policy.png)
+* **IT Admins Alex Chen:**  
+  ![IT_Admins_Alex_Chen](Lab%203%20-%20MFA%20Policy/Screenshots/IT_Admins_Alex_Chen.png)
 
 </details>
 
