@@ -155,21 +155,18 @@ Set up role-based access in Okta where users get app access through their depart
 <br>
 
 #### Architecture Diagram
-![Architecture Diagram](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Architecture_Diagram.png)
+![Architecture Diagram](Lab%204%20-%20JML%20Lifecycle/Screenshots/Architecture_Diagram.png)
 
-#### SAML Integration Proof
-* **Custom SAML Configuration:**  
-  ![SAML Creation 1](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Slack_SP_Shrestha_Technology_1.png)  
-  ![SAML Creation 2](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Slack_SP_Shrestha_Technology_2.png)  
-  ![SAML Creation 3](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Slack_SP_Shrestha_Technology_3.png)
-* **Group-Based Application Assignments:**  
-  ![Group Based App Access 1](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Group_Based_App_Access_1.png)  
-  ![Group Based App Access 2](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Group_Based_App_Access_2.png)
-* **Least Privilege Access Verification:**  
-  * *Finance User (John Smith - Limited Access):*  
-    ![John App Access](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/John_App_Access.png)
-  * *HR & Cloud Admin (Lisa Park - Extended Access):*  
-    ![Lisa App Access](Lab%204%20-%20Okta%20SAML%202.0%20Application%20Integration/Screenshots/Lisa_App_Access.png)
+#### JML Lifecycle Proof
+* **Daniel Reed Joiner Finance:**  
+  ![Daniel_Reed_Joiner_Finance](Lab%204%20-%20JML%20Lifecycle/Screenshots/Daniel_Reed_Joiner_Finance.png)  
+
+* **Daniel Reed Mover HR:**  
+ ![Daniel_Reed_Mover_HR](Lab%204%20-%20JML%20Lifecycle/Screenshots/Daniel_Reed_Mover_HR.png)  
+
+* **Daniel Reed Leaver Deactivated:**  
+  ![Daniel_Reed_Leaver_Deactivated](Lab%204%20-%20JML%20Lifecycle/Screenshots/Daniel_Reed_Leaver_Deactivated.png)  
+
 
 </details>
 
