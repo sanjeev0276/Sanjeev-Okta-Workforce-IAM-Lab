@@ -160,7 +160,7 @@ Set up role-based access in Okta where users get app access through their depart
 ### Lab 4: JML Lifecycle
 
 **Key Learnings and Takeaways:**
-* Group Rules automate JML: Department = Finance → Rule If Finance Then Finance-Team auto-assigns group and app. No manual work. HR system is source of truth.
+* Group Rules automate JML: Department = Finance → Rule If Finance Then Finance-Team auto-assigns group and app. No manual work. This lab simulates an HR-driven identity lifecycle using Okta profile attributes and group rules. A real implementation would integrate an authoritative HR system.
 * Mover removes old access: Changed Department Finance→HR → Finance-Team auto-removed, HR-Team auto-added. Old app revoked, new app granted. Prevents extra access.
 * Leaver removes apps, keeps groups for audit: Deactivate = No apps assigned. HR-Team stays in Groups tab for audit history. Real flow: Deactivate now, Delete after 30 days.
 
