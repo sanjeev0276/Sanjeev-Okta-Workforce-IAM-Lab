@@ -186,23 +186,14 @@ Set up role-based access in Okta where users get app access through their depart
 <br>
 
 #### Architecture Diagram
-![Architecture Diagram](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Architecture_Diagram.png)
+![Architecture Diagram](Lab%205%20-%20Access%20Governance/Screenshots/Architecture_Diagram.png)
 
-#### MFA & Policy Verification
-* **Authenticator Enrollment & Passwordless Setup:**  
-  ![Enroll Okta Verify](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Enroll_Okta_Verify.png)  
-  ![Passwordless Enrollment](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Passwordless_Enrollment_1.png)
-* **Network Zones & Adaptive Rules:**  
-  ![Network Zones](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Network_Zones.png)  
-  ![Adaptive Policy Outside Network](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Risk_Based_Adaptive_MFA_Policy_OutsideNetwork.png)  
-  ![Adaptive Policy Corporate Network](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Risk_Based_Adaptive_MFA_Policy_Corporate.png)
-* **Step-Up Authentication Engine:**  
-  ![Step Up Policy](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Step_Up_Authentication_Policy.png)  
-  ![Step Up Rule](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Step_Up_Authentication_Rule.png)  
-  ![Step Up High Assurance](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Step_Up_Authentication_High_Assurance_Policy.png)
-* **User Authentication Testing:**  
-  ![John Smith Access](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/John_Smith_Access.png)  
-  ![Jane Doe Access](Lab%205%20-%20Okta%20MFA%20and%20Adaptive%20Authentication/Screenshots/Jane_Doe_Access.png)
+#### Exception Access Proof
+* **Daniel Reed Exception Access - My Apps:**  
+  ![Daniel_Reed_Exception_Access](Lab%205%20-%20Access%20Governance/Screenshots/Daniel_Reed_Exception_Access.png)
+
+* **Daniel Reed Temp Access - Applications Assignment via Temp Group:**  
+  ![Daniel_Reed_Temp_Access_Groups](Lab%205%20-%20Access%20Governance/Screenshots/Daniel_Reed_Temp_Access_Groups.png)
 
 </details>
 
