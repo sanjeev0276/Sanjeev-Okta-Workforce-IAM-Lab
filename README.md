@@ -177,8 +177,9 @@ Set up role-based access in Okta where users get app access through their depart
 ### Lab 5: Access Governance
 
 **Key Learnings and Takeaways:**
-* Defined trusted vs. untrusted IP Network Zones. Constructed Adaptive Sign-On Rules to require MFA or block access based on client network context.
-* Enforced step-up authentication policies on high-value resources (e.g., SharePoint) to challenge active sessions upon accessing sensitive data.
+* Temp group, not permanent team - Daniel HR needs Finance temporary - Created Finance-Portal-Temporary-Access group for Finance Portal, not Finance-Team - Prevents SoD HR+Finance
+* Applications tab shows source - My Apps shows HR + Finance, but Applications tab shows Finance via temp group and HR via HR-Team - Auditors check this - RBAC
+* Temp access must be removed - Lab 5 manual - No auto-remove - Prod needs Workflows for auto-revoke - Manual causes orphaned access
 
 <details>
 <summary>📸 <b>Click to view Lab 5 Diagrams and Screenshots</b></summary>
