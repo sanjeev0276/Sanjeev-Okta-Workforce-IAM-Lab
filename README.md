@@ -33,7 +33,7 @@
 
 Implemented an end-to-end IAM environment using Okta, RBAC, SAML 2.0 federation, Adaptive MFA, and automated Joiner-Mover-Leaver lifecycle with access governance across five hands-on labs.
 
-* **RBAC Model (Lab 1):** Core Okta Developer Tenant *.okta.com - redacted, Groups Finance-Team, HR-Team, IT-Admins, Contractors, Finance-Portal-Temporary-Access, Principle Least Privilege Access, no direct app assignments.
+* **RBAC Model (Lab 1):** Core Okta Developer Tenant *.okta.com, Groups Finance-Team, HR-Team, IT-Admins, Contractors, Finance-Portal-Temporary-Access, Principle Least Privilege Access, no direct app assignments.
 * **SAML SSO Integration (Lab 2):** SAML 2.0 federation IdP Okta, SP Apps Finance Portal, HR Portal, IT Admin Portal, SAML ACS URL, Single Sign-On via group assignment.
 * **MFA Policy (Lab 3):** High Risk Admin Access Policy Applies to IT-Admins Group, Password + Okta Verify, Step-up Auth, DENY on policy violation, Zero Trust for admin.
 * **JML Lifecycle (Lab 4):** Joiner Department=Finance→Finance-Team→Finance Portal, Mover Finance→HR→HR-Team→HR Portal old revoked new granted, Leaver Deactivated→No apps, Groups kept for audit.
