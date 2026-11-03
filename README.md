@@ -22,7 +22,7 @@
 | Lab       | Focus Area                                | Status    | Jump to Lab                                                                  |
 |-----------|-------------------------------------------|-----------|------------------------------------------------------------------------------|
 | **Lab 1** | RBAC Model | Completed | [Go to Lab 1](#lab-1-RBAC-Model)                       |
-| **Lab 2** | SML SSO Integration    | Completed | [Go to Lab 2](#lab-2-SML-SSO-Integration) |
+| **Lab 2** | SAML SSO Integration    | Completed | [Go to Lab 2](#lab-2-SAML-SSO-Integration) |
 | **Lab 3** | MFA Policy | Completed | [Go to Lab 3](#lab-3-MFA-Policy)               |
 | **Lab 4** | JML Lifecycle          | Completed | [Go to Lab 4](#lab-4-JML-Lifecycle)                        |
 | **Lab 5** | Access Governance        | Completed | [Go to Lab 5](#lab-5-Access-Governance)        |
@@ -85,7 +85,7 @@ Set up role-based access in Okta where users get app access through their depart
 ---
 **[↑ Back to Lab Execution Status](#lab-execution-status)**
 
-<a id="lab-2-SML-SSO-Integration"></a>
+<a id="lab-2-SAML-SSO-Integration"></a>
 ### Lab 2: SAML SSO Integration
 **Key Learnings and Takeaways:**
 * SAML is IdP trusting SP: Okta (IdP) sends a login proof to the test app (SP). Alex Chen gets access because he's in IT-Admins group - Alex Chen → IT-Admins → App. That's how all work apps work.
