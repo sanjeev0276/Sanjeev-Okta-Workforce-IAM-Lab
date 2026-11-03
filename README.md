@@ -216,6 +216,16 @@ Set up role-based access in Okta where users get app access through their depart
 ---
 **[↑ Back to Lab Execution Status](#lab-execution-status)**
 
+## Production Considerations
+
+This lab simulates IAM concepts using an Okta Developer Tenant.
+Enterprise implementations would typically include:
+- Active Directory Integration
+- SCIM Provisioning
+- HR Source Systems
+- Automated Access Reviews
+- Okta Workflows
+- SIEM Monitoring
 
 ## Original Repository & Credits
 This hands-on lab series was adapted and built upon the foundational framework provided by [SuhaibAN/okta-workforce-iam-lab] (https://github.com/SuhaibAN/okta-workforce-iam-lab). Full original references can be found in [REFERENCE.md](REFERENCE.md).
