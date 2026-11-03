@@ -12,7 +12,7 @@
 **Environment:** Okta Developer Tenant (*.okta.com - redacted) 
 
 ## 5 Labs Architecture Overview
-RBAC Model → SML SSO Integration → MFO Policy → Access Governance
+RBAC Model → SML SSO Integration → MFO Policy → JML Lifecycle → Access Governance
  ![Architecture_Overview](Overall_Architecture.png)
 
 
