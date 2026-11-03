@@ -1,9 +1,11 @@
 # Sanjeev-Okta-Workforce-IAM-Lab
 ![Okta](https://img.shields.io/badge/Okta-IAM-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Integration-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SAML](https://img.shields.io/badge/SAML%202.0-SSO-FF6B00?style=for-the-badge)
 ![MFA](https://img.shields.io/badge/Adaptive%20MFA-Zero%20Trust-00A86B?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-Least%20Privilege-0A2A5A?style=for-the-badge&logo=shield&logoColor=white)
+![JML](https://img.shields.io/badge/JML-Joiner%20Mover%20Leaver-1A5D1A?style=for-the-badge&logo=workos&logoColor=white)
+![Governance](https://img.shields.io/badge/Access%20Review-Governance-8B0000?style=for-the-badge&logo=security&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 **Author:** Sanjeev Shrestha | Dallas–Fort Worth Area, TX (Shrestha Technologies)  
@@ -12,7 +14,6 @@
 **Environment:** Okta Developer Tenant (*.okta.com - redacted) 
 
 ## 5 Labs Architecture Overview
-RBAC Model → SML SSO Integration → MFO Policy → JML Lifecycle → Access Governance
  ![Architecture_Overview](Overall_Architecture_Diagram.png)
 
 
