@@ -13,7 +13,7 @@
 
 ## 5 Labs Architecture Overview
 RBAC Model → SML SSO Integration → MFO Policy → JML Lifecycle → Access Governance
- ![Architecture_Overview](Overall_Architecture.png)
+ ![Architecture_Overview](Overall_Architecture_Diagram.png)
 
 
 ## Quick Navigation and Lab Execution Status
