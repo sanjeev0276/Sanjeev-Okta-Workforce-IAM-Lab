@@ -49,6 +49,20 @@ Implemented an end-to-end IAM environment using Okta, RBAC, SAML 2.0 federation,
 * MFA Policy
 * JML Lifecycle
 * Access Governance
+  
+## Technologies Used
+| Category | Technologies |
+|-----------|-------------|
+| Identity Platform | Okta Workforce Identity Cloud |
+| Authentication | MFA, Okta Verify |
+| Federation | SAML 2.0, Identity Federation, Single Sign-On (SSO) |
+| Authorization | RBAC, Group-Based Access Control |
+| Automation | Group Rules, Joiner-Mover-Leaver (JML) |
+| Governance | Access Governance, Access Reviews |
+| Security Models | Least Privilege, Zero Trust |
+| IAM Concepts | Provisioning, Deprovisioning, Access Certification |
+
+  
 
 ## Detailed Lab Implementations and Visual Proof
 
