@@ -57,7 +57,7 @@ Implemented an end-to-end IAM environment using Okta, RBAC, SAML 2.0 federation,
 | Authentication | MFA, Okta Verify |
 | Federation | SAML 2.0, Identity Federation, Single Sign-On (SSO) |
 | Authorization | RBAC, Group-Based Access Control |
-| Automation | Group Rules, Joiner-Mover-Leaver (JML) |
+| Lifecycle | JML Simulation, Okta Profile Attributes, Group Rules |
 | Governance | Access Governance, Access Reviews |
 | Security Models | Least Privilege, Zero Trust |
 | IAM Concepts | Provisioning, Deprovisioning, Access Certification |
@@ -228,5 +228,5 @@ Enterprise implementations would typically include:
 - SIEM Monitoring
 
 ## Original Repository & Credits
-This hands-on lab series was adapted and built upon the foundational framework provided by [SuhaibAN/okta-workforce-iam-lab] (https://github.com/SuhaibAN/okta-workforce-iam-lab). Full original references can be found in [REFERENCE.md](REFERENCE.md).
+This hands-on lab series was adapted and built upon the foundational framework provided by [SuhaibAN/okta-workforce-iam-lab](https://github.com/SuhaibAN/okta-workforce-iam-lab). Full original references can be found in [REFERENCE.md](REFERENCE.md).
 
